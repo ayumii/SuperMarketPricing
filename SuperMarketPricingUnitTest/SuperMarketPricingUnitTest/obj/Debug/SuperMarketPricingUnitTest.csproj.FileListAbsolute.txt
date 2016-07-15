@@ -1,0 +1,10 @@
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\bin\Debug\SuperMarketPricingUnitTest.dll
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\bin\Debug\SuperMarketPricingUnitTest.pdb
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\bin\Debug\SuperMarketProject.exe
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\bin\Debug\SuperMarketProject.pdb
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\obj\Debug\SuperMarketPricingUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\obj\Debug\SuperMarketPricingUnitTest.dll
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\obj\Debug\SuperMarketPricingUnitTest.pdb
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketPricingUnitTest\bin\Debug\nunit.framework.xml

@@ -1,0 +1,8 @@
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketProject\bin\Debug\SuperMarketProject.exe.config
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketProject\bin\Debug\SuperMarketProject.exe
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketProject\bin\Debug\SuperMarketProject.pdb
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketProject\obj\Debug\SuperMarketProject.exe
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketProject\obj\Debug\SuperMarketProject.pdb
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketProject\bin\Debug\nunit.framework.dll
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketProject\bin\Debug\nunit.framework.xml
+C:\Users\angela.heng99\Documents\Visual Studio 2015\Projects\SuperMarketPricingUnitTest\SuperMarketProject\obj\Debug\SuperMarketProject.csprojResolveAssemblyReference.cache
